@@ -68,6 +68,7 @@ JAMstack (JavaScript, APIs, and Markup) is a modern web development architecture
 - [Supabase](https://supabase.com/) – Open-source Firebase alternative.
 - [Fauna](https://fauna.com/)
 - [Appwrite](https://appwrite.io/)
+- [Nhost](https://nhost.io/) – Open-source backend platform with Hasura GraphQL, Postgres, auth, storage, and functions.
 
 ## Authentication
 
