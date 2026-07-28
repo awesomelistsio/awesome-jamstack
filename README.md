@@ -1,4 +1,4 @@
-# Awesome JAMstack [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome JAMstack [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -68,7 +68,7 @@ JAMstack (JavaScript, APIs, and Markup) is a modern web development architecture
 - [Supabase](https://supabase.com/) – Open-source Firebase alternative.
 - [Fauna](https://fauna.com/)
 - [Appwrite](https://appwrite.io/)
-- [Nhost](https://nhost.io/) – Open-source backend platform with Hasura GraphQL, Postgres, auth, storage, and functions.
+- [Nhost](https://nhost.io/) – Open-source backend platform with Postgres, GraphQL, authentication, storage, and serverless functions.
 
 ## Authentication
 
