@@ -131,10 +131,10 @@ JAMstack (JavaScript, APIs, and Markup) is a modern web development architecture
 
 ## Related Awesome Lists
 
-- [Awesome Static Website Services](https://github.com/awesomelistsio/awesome-static-website-services)
-- [Awesome Static Site Generators](https://github.com/awesomelistsio/awesome-static-generators)
-- [Awesome Serverless](https://github.com/awesomelistsio/awesome-serverless)
-- [Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms)
+- [Awesome Static Website Services](https://github.com/brandonhimpfen/awesome-static-website-services)
+- [Awesome Static Site Generators](https://github.com/brandonhimpfen/awesome-static-generators)
+- [Awesome Serverless](https://github.com/brandonhimpfen/awesome-serverless)
+- [Awesome Headless CMS](https://github.com/brandonhimpfen/awesome-headless-cms)
   
 ## Contribute
 
